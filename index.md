@@ -1,10 +1,2 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Timothy Karani</title>
-</head>
-<body>
-    Hello World!
-</body>
-</html>
+# Timothy Karani
+Hello World
