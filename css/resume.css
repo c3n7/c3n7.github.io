@@ -171,7 +171,7 @@ a {
   color: #1C1C25;
 }
 
-a:hover, a:focus, a:active {
+a:hover, a:focus, a:active, .cert-icon, a.certs:hover, a.certs:focus, a.certs:active{
   color: #108BDA;
 }
 
